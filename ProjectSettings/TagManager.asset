@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Moon
+  - StartingPoint
+  - Bitebox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - DeathPit
+  - Bitebox
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2527106533
+    locked: 0
+  - name: Background
+    uniqueID: 3368994305
+    locked: 0
+  - name: Checkpoint
+    uniqueID: 27194977
+    locked: 0
+  - name: Player
+    uniqueID: 3922384963
+    locked: 0
+  - name: Foreground
+    uniqueID: 2758132325
+    locked: 0
+  - name: Pickup
+    uniqueID: 2276422259
+    locked: 0
+  - name: Enemy
+    uniqueID: 3265667093
+    locked: 0
+  - name: DeathCollider
+    uniqueID: 1918915425
+    locked: 0
